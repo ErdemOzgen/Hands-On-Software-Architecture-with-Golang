@@ -1,6 +1,6 @@
 # Hands-On Software Architecture with Golang
 
-<a href="https://www.packtpub.com/application-development/hands-software-architecture-golang?utm_source=github&utm_medium=repository&utm_campaign=9781788622592 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09392_NEW.png" alt="Hands-On Software Architecture with Golang" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/hands-software-architecture-golang?utm_source=github&utm_medium=repository&utm_campaign=9781788622592 "><img src="https://static.packt-cdn.com/products/9781788622592/cover/smaller" alt="Hands-On Software Architecture with Golang" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Software Architecture with Golang](https://www.packtpub.com/application-development/hands-software-architecture-golang?utm_source=github&utm_medium=repository&utm_campaign=9781788622592), published by Packt.
 
